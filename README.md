@@ -89,5 +89,4 @@ The interpreter also support assigning complex expression, like : `var example =
 
 
 ## Links
-- My GitHub project https://github.com/GilAvraham2909/FlightSimulator.git
-
+- My GitHub project https://github.com/GilAvraham2909/FlightGearSimulator.git
