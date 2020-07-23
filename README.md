@@ -10,9 +10,6 @@ The interpreter can interpret a script if run with the script path, or line by l
 ## Creator
 Gil Avraham
 
-- **I.D** : 318662939
-- **Submit name** : avrahag6
-
 ## Installing
 - optiional : Linux environment to run the code, i used Clion
 - Download and install the simulator on your computer - https://www.flightgear.org/download/
